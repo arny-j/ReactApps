@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Keyboard",
+    "price": 29.99,
+    "description": "A comfortable wireless keyboard with long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Mouse",
+    "price": 19.99,
+    "description": "Ergonomic and compact mouse with Bluetooth connectivity."
+  },
+  {
+    "id": 3,
+    "name": "USB-C Hub",
+    "price": 39.99,
+    "description": "Multi-port hub with HDMI, USB, and SD card support."
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "description": "High-quality mechanical keyboard with customizable RGB lights."
+  },
+  {
+    "id": 5,
+    "name": "Noise Cancelling Headphones",
+    "price": 99.99,
+    "description": "Over-ear headphones with active noise cancellation."
+  },
+  {
+    "id": 6,
+    "name": "Portable SSD",
+    "price": 129.99,
+    "description": "1TB high-speed portable SSD for fast data transfer."
+  },
+  {
+    "id": 7,
+    "name": "Webcam 1080p",
+    "price": 49.99,
+    "description": "Full HD webcam with auto-focus and built-in microphone."
+  },
+  {
+    "id": 8,
+    "name": "Gaming Mousepad",
+    "price": 14.99,
+    "description": "Large, non-slip gaming mousepad with smooth surface."
+  },
+  {
+    "id": 9,
+    "name": "Smartphone Stand",
+    "price": 9.99,
+    "description": "Adjustable aluminum stand for smartphones and tablets."
+  },
+  {
+    "id": 10,
+    "name": "Laptop Cooling Pad",
+    "price": 34.99,
+    "description": "Silent cooling pad with adjustable fan speed."
+  }
+]
