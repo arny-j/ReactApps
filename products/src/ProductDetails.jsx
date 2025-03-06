@@ -1,5 +1,6 @@
 import Products from "./Products";
 
+
 // eslint-disable-next-line react/prop-types
 function ProductDetails({id}) {
 
