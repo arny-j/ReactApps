@@ -1,4 +1,5 @@
-// https://tuhakarainab.github.io/content_hosting/monsters.json
+/* eslint-disable react/prop-types */
+
 
 function Monster({ selectedMonster }) {
   return (
@@ -6,8 +7,8 @@ function Monster({ selectedMonster }) {
       <h1>{selectedMonster.name}</h1>
       <p className="text-center">
         <img
-          src="{selectedMonster.image}"
-          alt="{selectedMonster.name}"
+          src={selectedMonster.image}
+          alt={selectedMonster.name}
           className="rounded img-fluid"
         />
       </p>
@@ -17,3 +18,5 @@ function Monster({ selectedMonster }) {
     </div>
   );
 }
+
+export default Monster;
