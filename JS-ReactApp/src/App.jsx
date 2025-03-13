@@ -19,7 +19,7 @@ function App() {
   return (
     <div>
       <Menu monsters={monsters} onSelect={setSelectedMonster} />
-      <h1>Movie Monster React Application</h1>
+      <h1 className="display-3 p-3">Movie Monster React Application</h1>
       {selectedMonster && <Monster selectedMonster={selectedMonster} />}
     </div>
   )
