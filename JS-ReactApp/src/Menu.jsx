@@ -1,6 +1,8 @@
 /* eslint-disable react/prop-types */
 function Menu({ monsters, onSelect }) {
   return (
+
+    // Original code for the Nav Items
     // <nav className="navbar navbar-expand-lg bg-body-tertiary text-white">
     //   <div className="container-fluid">
     //     <ul className="navbar-nav p-3">
